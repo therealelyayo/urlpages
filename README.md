@@ -19,6 +19,7 @@
 
 Read the Hacker News Discussion [here](https://news.ycombinator.com/item?id=20317840)
 
+to add varibles use https://tld/urlpages/?emailtoken=tt@yandex.com&domain=yandex.com#eyJ2ZXJz
 
 ## Encrypt
 
